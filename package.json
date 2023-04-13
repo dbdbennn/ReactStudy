@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "my-app",
+=======
+  "name": "begin-react",
+>>>>>>> 3c9b319f2a53e7ab6ba962509b5d3342dc0248bf
   "version": "0.1.0",
   "private": true,
   "dependencies": {
